@@ -25,7 +25,6 @@ entries:
     urls:
     - https://openebs.github.io/mayastor-extensions/mayastor-1.0.0.tgz
     version: 1.0.0
-    mayastor:
   - apiVersion: v2
     appVersion: 2.0.1-develop
     created: "2022-09-14T15:19:28.271205746Z"
